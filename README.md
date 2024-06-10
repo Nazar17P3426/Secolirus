@@ -1,2 +1,2 @@
 # Secolirus
-Leaked source of Secolirus,exe
+C++ GDI trojan by Core034
